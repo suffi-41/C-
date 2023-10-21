@@ -1,0 +1,7 @@
+35 
+56 
+45 
+34 
+34 
+sum of multiple no is 204
+sum of two arr ids 408
